@@ -1,0 +1,5 @@
+a = float (input ('enter number  '))
+b = float (input ('enter number  '))
+c = float (input ('enter number  '))
+d = (1-a*b**c-a*(b**2-c**2)+(b-c+a)*(12+b)/c-a)
+print (d)
